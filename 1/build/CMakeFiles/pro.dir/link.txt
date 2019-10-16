@@ -1,0 +1,1 @@
+g++  -lstdc++   CMakeFiles/pro.dir/main.c.o  -o pro -rdynamic cuda/bin/libcube.a src/bin/libprint.a -Wl,-Bstatic -lcudart_static -Wl,-Bdynamic -lpthread -ldl -lrt -lpthread -lcufft -lpcap 

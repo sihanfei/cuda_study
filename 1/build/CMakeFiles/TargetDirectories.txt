@@ -1,0 +1,9 @@
+/home/ads/my_code/pnc/hello/build/CMakeFiles/rebuild_cache.dir
+/home/ads/my_code/pnc/hello/build/CMakeFiles/edit_cache.dir
+/home/ads/my_code/pnc/hello/build/CMakeFiles/pro.dir
+/home/ads/my_code/pnc/hello/build/cuda/bin/CMakeFiles/rebuild_cache.dir
+/home/ads/my_code/pnc/hello/build/cuda/bin/CMakeFiles/edit_cache.dir
+/home/ads/my_code/pnc/hello/build/cuda/bin/CMakeFiles/cube.dir
+/home/ads/my_code/pnc/hello/build/src/bin/CMakeFiles/edit_cache.dir
+/home/ads/my_code/pnc/hello/build/src/bin/CMakeFiles/rebuild_cache.dir
+/home/ads/my_code/pnc/hello/build/src/bin/CMakeFiles/print.dir

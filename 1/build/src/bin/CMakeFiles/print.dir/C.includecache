@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ads/my_code/pnc/hello/src/print.c
+print.h
+/home/ads/my_code/pnc/hello/src/print.h
+stdio.h
+-
+
+/home/ads/my_code/pnc/hello/src/print.h
+
